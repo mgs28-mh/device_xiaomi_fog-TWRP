@@ -1,2 +1,2 @@
 # Clone kernel tree
-git clone --depth=1 https://github.com/alternoegraha/kernel_xiaomi_fog_14 kernel/xiaomi/fog
+git clone --depth=1 https://github.com/mgs28-mh/kernel_xiaomi_fog-4.19 -b fog-wip kernel/xiaomi/fog
