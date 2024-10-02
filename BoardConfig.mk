@@ -20,7 +20,7 @@ TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := cortex-a73
 
 # Assertation
-TARGET_OTA_ASSERT_DEVICE := fog,rain,wind
+# TARGET_OTA_ASSERT_DEVICE := fog,rain,wind
 
 # A/B
 ENABLE_VIRTUAL_AB := true
