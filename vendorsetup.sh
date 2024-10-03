@@ -56,7 +56,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
     export OF_FLASHLIGHT_ENABLE=1
 
     # screen settings
-	export OF_SCREEN_H=2400
+	export OF_SCREEN_H=1650
 	export OF_STATUS_H=100
 	export OF_STATUS_INDENT_LEFT=48
 	export OF_STATUS_INDENT_RIGHT=48
